@@ -1,0 +1,84 @@
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\bin\Debug\QuanLyCuaHangTienLoi.exe.config
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\bin\Debug\QuanLyCuaHangTienLoi.exe
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\bin\Debug\QuanLyCuaHangTienLoi.pdb
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\bin\Debug\LiveCharts.dll
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\bin\Debug\LiveCharts.pdb
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\bin\Debug\LiveCharts.xml
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.csproj.AssemblyReference.cache
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.csproj.SuggestedBindingRedirects.cache
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmAdminMain.resources
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmAdminQLTKChuCuaHang.resources
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmAdminQLTKNhanVien.resources
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmAdminQLTKQuanLy.resources
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmChangePassword.resources
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmChuCuaHangMain.resources
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmChuCuaHangThanhToanLuong.resources
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmInput2.resources
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmLogin.resources
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmNhanVienMain.resources
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmNhanVienThanhToanSp.resources
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmNhanVienXemHDTT.resources
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmQuanLyMain.resources
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmQuanLyQLNhanVien.resources
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmQuanLyQLNhapSp.resources
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmQuanLyQLSp.resources
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmQuanLyXuatSp.resources
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmShowDialogQuestion.resources
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmThongTinCuaHang.resources
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmTimKiem.resources
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmXemDoanhThu.resources
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmXemHoaDonNhapXuat.resources
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.Properties.Resources.resources
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.csproj.GenerateResource.cache
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.csproj.CoreCompileInputs.cache
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.csproj.CopyComplete
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.exe
+C:\Users\duong\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.pdb
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\bin\Debug\QuanLyCuaHangTienLoi.exe.config
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\bin\Debug\QuanLyCuaHangTienLoi.exe
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\bin\Debug\QuanLyCuaHangTienLoi.pdb
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\bin\Debug\LiveCharts.dll
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\bin\Debug\LiveCharts.pdb
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\bin\Debug\LiveCharts.xml
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.csproj.AssemblyReference.cache
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.csproj.SuggestedBindingRedirects.cache
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmAdminMain.resources
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmChangePassword.resources
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmChuCuaHangMain.resources
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmInput2.resources
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmLogin.resources
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmNhanVienMain.resources
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmNhanVienThanhToanSp.resources
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmNhanVienXemHDTT.resources
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmQuanLyMain.resources
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmQuanLyQLNhanVien.resources
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmQuanLyQLNhapSp.resources
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmQuanLyQLSp.resources
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmQuanLyXuatSp.resources
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmShowDialogQuestion.resources
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmThongTinCuaHang.resources
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmTimKiem.resources
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmXemDoanhThu.resources
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmXemHoaDonNhapXuat.resources
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.Properties.Resources.resources
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.csproj.GenerateResource.cache
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.csproj.CoreCompileInputs.cache
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.csproj.CopyComplete
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.exe
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.pdb
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmQLTKAdmin.resources
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmQLTKNhanVien.resources
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmQLTKQuanLy.resources
+C:\Users\duong\Desktop\Thư WInform\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\obj\Debug\QuanLyCuaHangTienLoi.frmThanhToanLuong.resources
